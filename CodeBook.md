@@ -83,10 +83,10 @@ We join those files and just keep the variables with mean() or std().
 and we group by Subject and Activity and after summarize with mean.
 
 Note: We change the variables name we change:
-f to Freq
-t to Time
-mean() to Mean
-std() to Std
-Acc to Accelerometer 
-Gyro to Gyroscope
-BodyBody to Body
+- f to Freq
+- t to Time
+- mean() to Mean
+- std() to Std
+- Acc to Accelerometer 
+- Gyro to Gyroscope
+- BodyBody to Body
