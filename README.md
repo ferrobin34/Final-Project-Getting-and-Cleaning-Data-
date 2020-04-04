@@ -18,10 +18,10 @@ For each record it is provided:
 
 In this project we have the next files:
 
-README.md : This file with info about the data.
-CodeBook.md : A file with info about de variables and the procces data.
-TidyData.txt : Final tidy data.
-run_analysis.R : The script with the code to get and clean the data.
+-README.md : This file with info about the data.
+-CodeBook.md : A file with info about de variables and the procces data.
+-TidyData.txt : Final tidy data.
+-run_analysis.R : The script with the code to get and clean the data.
 
 
 
